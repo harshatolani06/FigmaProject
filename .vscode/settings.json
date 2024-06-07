@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "Hwzthat Academy final receptionist",
+    "id": "665f93e72d576621a3ca7e96",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "/Users/chandangirdhani/Documents/FigmaProject/src/components",
+    "screensPath": "/Users/chandangirdhani/Documents/FigmaProject/src/pages"
+  }
+}
